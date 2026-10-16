@@ -1,0 +1,25 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# Next.js build output
+/.next
+/out
+/build
+next-env.d.ts
+
+# Environment variables (keep the example file versioned)
+.env*
+!.env.example
+
+# Deployment tooling
+/.vercel
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs and local OS files
+*.log
+.DS_Store
+Thumbs.db
